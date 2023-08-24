@@ -544,7 +544,10 @@ footer {
     font-weight: 700;
     line-height: normal;
 }
-
+  .find-partner {
+        display: flex;
+        align-items: center;
+    }
 @media screen and (min-width: 767px) {
     .header {
         width: 100%;
